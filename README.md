@@ -1,5 +1,9 @@
 # h4iminihackathon
 
+This project is a social networking site.<br>
+This current implementation covers the login/registration page and a news feed type wall where users can post content.<br>
+All other options are meant to serve as proof of concept. These include a profile page, settings page and in app chat.
+
 To run the application, first follow the steps below to setup the project on your local machine.
 
 0. Verify that you have python3 and pip installed on your machine. If not, install them.
